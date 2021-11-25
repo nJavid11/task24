@@ -1,0 +1,42 @@
+section{    
+    background-image: url(../hometask24/img/spring.jpg);
+    margin: 0px 0px;
+    padding: 146px 0px;
+    border-bottom: 61px #3e3d3d solid;
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: center;
+    
+}
+section h1{
+    color: white;
+    position: relative;
+    left: 16px;
+    top: 154px;
+    letter-spacing: 2px;
+    
+}
+section a{
+    color: rgb(165, 165, 165);
+    position: relative;
+    top: 174px;
+    font-size: 13px;
+    text-decoration: none;
+    margin: 0px 19px;
+}
+h2{
+    color: rgb(43, 138, 43);
+    font-size: 25px;
+}
+
+.cont{
+    margin: 0px 25px;
+}
+#w{
+    margin: 20px ;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;;
+}
